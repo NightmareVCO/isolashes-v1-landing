@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Sunydale";
+  src: url("/fonts/Sunydale.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Adelia";
+  src: url("/fonts/Adelia.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Perfume";
+  src: url("/fonts/Perfume.woff2") format("woff2");
+}
